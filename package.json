@@ -85,7 +85,7 @@
     "karma-webpack": "^2.0.3",
     "natives": "^1.1.4",
     "ng2-gist": "*",
-    "node-sass": "^4.5.2",
+    "node-sass": "^7.0.0",
     "primeng": "*",
     "raw-loader": "^0.5.1",
     "rimraf": "2.6.1",
